@@ -1,0 +1,10 @@
+name: ServerStatusPlugin
+version: 1.0
+main: me.Arii.ServerStatusPlugin.Main
+author: Latenitearii
+website: http://latenitearii.ddns.net
+
+commands:
+  websiteupdate:
+    description: Test command to force update server data.
+    usage: simply type /websiteupdate.
